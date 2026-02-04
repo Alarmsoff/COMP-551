@@ -5,7 +5,7 @@
 
 2. Place `day.csv` in the same directory as the notebook.
 
-3. Open `MiniProject.ipynb` in Jupyter Notebook or Google Colab.
+3. Open the file in Jupyter Notebook or Google Colab.
 
 4. Update the `CSV_PATH` variable if necessary.
 
